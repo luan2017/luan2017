@@ -2,9 +2,9 @@
 
 ### My name is Wanderson Pinho. 👨
 
-#### - I am Software Developer FullStack.  💻
+#### - I'm a Fullstack Software Developer.  💻
 
-### - I am passionate about JavaScript and its entire ecosystem! ❤ ⚛
+### - As a programmer passionate about Javascript World and its ecosystem! ❤ ⚛
 ------------
 
 # Experiences
