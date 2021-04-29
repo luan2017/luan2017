@@ -16,6 +16,7 @@
 ------------
 ### Libraries
 - React Js.
+- Next Js.
 - React Native.
 - Node Js.
 ------------
